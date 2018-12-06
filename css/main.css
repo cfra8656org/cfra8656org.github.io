@@ -32,6 +32,9 @@ body {
 
 .container {
     padding: 15px;
+    font-family: 'Black And White Picture', sans-serif;
+    font-size: 18px;
+    color:#ff0000
 }
 
 .container img {
